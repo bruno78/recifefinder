@@ -1,6 +1,6 @@
 == README
 
 This is Recipe Finder App using Ruby on Rails and Food2Fork API. 
-This was an assignment for the class Intro to Rails 
+This was an assignment for the Intro to Rails class. 
 
 
